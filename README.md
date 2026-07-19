@@ -1,6 +1,6 @@
 # Blinkit-Data-anlysis
 This project analyzes the Blinkit retail sales dataset using Python, Pandas, Matplotlib, and Seaborn. It focuses on data cleaning, exploratory data analysis (EDA), and visualization to uncover business insights related to sales performance, customer behavior, product categories, delivery, and payment methods.
-##Project objective
+## Project objective
 1)Clean and preprocess raw Blinkit datasets.
 2)Perform exploratory data analysis (EDA) to uncover business insights.
 3)Analyze sales, revenue, customer behavior, and product performance.
