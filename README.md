@@ -6,6 +6,6 @@ This project analyzes the Blinkit retail sales dataset using Python, Pandas, Mat
 3)Analyze sales, revenue, customer behavior, and product performance.
 4)Create informative visualizations using Matplotlib and Seaborn.
 5)Identify trends and patterns to support data-driven decision-making.
-#Dataset used-
+## Dataset used-
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/blob/main/blinkit_customer_feedback.csv>">blinkit customer feedback
 -  
