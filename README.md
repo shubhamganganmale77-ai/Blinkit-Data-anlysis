@@ -8,5 +8,6 @@ This project analyzes the Blinkit retail sales dataset using Python, Pandas, Mat
 5)Identify trends and patterns to support data-driven decision-making.
 ## Dataset used-
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/commit/d442c27338b87c88fa7417e5148bc34732439964">Blinkit all 9 datasets 
-## Cleaning and Analysis
+## Cleaning and Analysis-
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/commit/9475efb30d63fe417e1b1433199386041a0764ca">Cleaning & Analysis
+## Cleaned dataset-
