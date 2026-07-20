@@ -29,7 +29,7 @@ high-performing categories, and operational insights that support
 better business decision-making.
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/commit/623591985c53f008dc9ac4e1193bb75829f6e904">Business analysis
 ## Visualization-
-- This project includes 29 data visualizations created using Matplotlib and Seaborn to explore sales trends, customer behavior, product performance, delivery efficiency, and business KPIs.
+- This project includes 28 data visualizations created using Matplotlib and Seaborn to explore sales trends, customer behavior, product performance, delivery efficiency, and business KPIs.
 - 1)Bar chart – Revenue by Category
 - 2)Bar chart – Top 10 Selling Products (Quantity)
 - 3)Bar chart – Top 10 Customers by Spending
@@ -41,3 +41,20 @@ better business decision-making.
 - 9)Box Plot – Product Price by Category
 - 10)Count Plot – Customer Segments distribution
 - 11)Line Chart – Monthly Revenue Trend
+- 12)Line Chart – Daily Order Trend(1 month)
+- 13)Line Chart – Monthly Order Trend
+- 14)Line Chart – Average Customer Rating by Month
+- 15)Bar Chart – Revenue by Payment Method
+- 16)Bar Chart-Average Revenue by Customer Segment
+- 17)Bar Chart – Top Delivery Partners by Orders
+- 18)Scatter Plot – Scatter Plot – Price vs Revenue
+- 19)Scatter Plot – Margin % vs Revenue
+- 20)Scatter Plot – Quantity vs Revenue
+- 21)Scatter Plot – Product Price vs Rating
+- 22)Heatmap – Correlation of important Numerical Columns
+- 23)Heatmap – Monthly Revenue Pivot Table
+- 24)Stacked Bar Chart – Revenue by Category and Payment Method
+- 25)Stacked Bar Chart – Orders by Month and Delivery Status
+- 26)Grouped Bar Chart – Revenue vs Quantity by Category
+- 27)Pair Plot – Numerical Features (price, quantity, revenue, rating, margin_percentage)
+- 28)Violin Plot – Ratings by Category
