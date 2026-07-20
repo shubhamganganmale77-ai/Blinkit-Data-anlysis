@@ -60,5 +60,5 @@ better business decision-making.
 - 28)Violin Plot – Ratings by Category
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/images">Visualization code using matplotlib and seaborn
 ## Visualization graphs
-- <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/commit/0491e52db055ac06429354f07fdf25a728182995">Visuals using matplotlib and seaborn
+- <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/images">Visuals using matplotlib and seaborn
 - This folder contains 29 visualization screenshots created using Matplotlib and Seaborn. The visualizations represent the results of the Blinkit Sales Analysis project, highlighting sales trends, customer insights, product performance, revenue analysis, and other key business metrics.
