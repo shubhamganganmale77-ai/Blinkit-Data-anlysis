@@ -62,5 +62,5 @@ better business decision-making.
 ## Visualization graphs
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/images">Visuals using matplotlib and seaborn
 - This folder contains 29 visualization screenshots created using Matplotlib and Seaborn. The visualizations represent the results of the Blinkit Sales Analysis project, highlighting sales trends, customer insights, product performance, revenue analysis, and other key business metrics.
-- ##Dashboard using PowerBI
+## Dashboard using PowerBI
 - Work in progress....
