@@ -24,7 +24,7 @@ combining multiple datasets to generate meaningful business insights.
 -  Customer rating analysis
 -  Profit margin analysis
 -  Key business metrics and KPIs
-The objective is to identify sales patterns, customer behavior,
+- The objective is to identify sales patterns, customer behavior,
 high-performing categories, and operational insights that support
 better business decision-making.
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/Business%20Analysis">Business analysis
@@ -61,6 +61,6 @@ better business decision-making.
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/Visualization">Visualization code using matplotlib and seaborn
 ## Visualization graphs
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/images">Visuals using matplotlib and seaborn
-- This folder contains 29 visualization screenshots created using Matplotlib and Seaborn. The visualizations represent the results of the Blinkit Sales Analysis project, highlighting sales trends, customer insights, product performance, revenue analysis, and other key business metrics.
+- This folder contains 28 visualization screenshots created using Matplotlib and Seaborn. The visualizations represent the results of the Blinkit Sales Analysis project, highlighting sales trends, customer insights, product performance, revenue analysis, and other key business metrics.
 ## Dashboard using PowerBI
 - Work in progress....
