@@ -11,7 +11,7 @@ This project analyzes the Blinkit retail sales dataset using Python, Pandas, Mat
 ## Cleaning and Analysis-
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/Cleaning%20%26%20Analysis">Cleaning & Analysis
 ## Cleaned dataset-
-- <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/commit/ccfdc85ff21362753899be46967c6bd2f4f76cd2">Cleaned datasets
+- <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/Cleaned%20Dataset">Cleaned datasets
 ## Business analysis-
 This script performs business analysis on the cleaned Blinkit dataset by
 combining multiple datasets to generate meaningful business insights.
