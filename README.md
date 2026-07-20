@@ -6,13 +6,13 @@ This project analyzes the Blinkit retail sales dataset using Python, Pandas, Mat
 - 3)Analyze sales, revenue, customer behavior, and product performance.
 - 4)Create informative visualizations using Matplotlib and Seaborn.
 - 5)Identify trends and patterns to support data-driven decision-making.
-## Dataset used-
+## Dataset used
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/Source_data">Blinkit all 9 datasets 
-## Cleaning and Analysis-
+## Cleaning and Analysis
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/Cleaning%20%26%20Analysis">Cleaning & Analysis
 ## Cleaned dataset-
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/Cleaned%20Dataset">Cleaned datasets
-## Business analysis-
+## Business analysis
 This script performs business analysis on the cleaned Blinkit dataset by
 combining multiple datasets to generate meaningful business insights.
 -  Total revenue and sales performance
@@ -28,7 +28,7 @@ The objective is to identify sales patterns, customer behavior,
 high-performing categories, and operational insights that support
 better business decision-making.
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/Business%20Analysis">Business analysis
-## Visualization-
+## Visualization
 - This project includes 28 data visualizations created using Matplotlib and Seaborn to explore sales trends, customer behavior, product performance, delivery efficiency, and business KPIs.
 - 1)Bar chart – Revenue by Category
 - 2)Bar chart – Top 10 Selling Products (Quantity)
