@@ -27,7 +27,7 @@ combining multiple datasets to generate meaningful business insights.
 The objective is to identify sales patterns, customer behavior,
 high-performing categories, and operational insights that support
 better business decision-making.
-- <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/commit/623591985c53f008dc9ac4e1193bb75829f6e904">Business analysis
+- <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/Business%20Analysis">Business analysis
 ## Visualization-
 - This project includes 28 data visualizations created using Matplotlib and Seaborn to explore sales trends, customer behavior, product performance, delivery efficiency, and business KPIs.
 - 1)Bar chart – Revenue by Category
