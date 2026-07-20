@@ -58,7 +58,7 @@ better business decision-making.
 - 26)Grouped Bar Chart – Revenue vs Quantity by Category
 - 27)Pair Plot – Numerical Features (price, quantity, revenue, rating, margin_percentage)
 - 28)Violin Plot – Ratings by Category
-- <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/images">Visualization code using matplotlib and seaborn
+- <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/Visualization">Visualization code using matplotlib and seaborn
 ## Visualization graphs
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/images">Visuals using matplotlib and seaborn
 - This folder contains 29 visualization screenshots created using Matplotlib and Seaborn. The visualizations represent the results of the Blinkit Sales Analysis project, highlighting sales trends, customer insights, product performance, revenue analysis, and other key business metrics.
