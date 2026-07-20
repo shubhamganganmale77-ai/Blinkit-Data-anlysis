@@ -15,15 +15,15 @@ This project analyzes the Blinkit retail sales dataset using Python, Pandas, Mat
 ## Business analysis-
 This script performs business analysis on the cleaned Blinkit dataset by
 combining multiple datasets to generate meaningful business insights.
-• Total revenue and sales performance
-• Monthly revenue and order trends
-• Product category performance
-• Customer segment analysis
-• Payment method analysis
-• Delivery performance analysis
-• Customer rating analysis
-• Profit margin analysis
-• Key business metrics and KPIs
+- • Total revenue and sales performance
+- • Monthly revenue and order trends
+- • Product category performance
+- • Customer segment analysis
+- • Payment method analysis
+- • Delivery performance analysis
+- • Customer rating analysis
+- • Profit margin analysis
+- • Key business metrics and KPIs
 The objective is to identify sales patterns, customer behavior,
 high-performing categories, and operational insights that support
 better business decision-making.
