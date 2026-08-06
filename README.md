@@ -63,7 +63,7 @@ better business decision-making.
 - <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/images">Visuals using matplotlib and seaborn
 - This folder contains 28 visualization screenshots created using Matplotlib and Seaborn. The visualizations represent the results of the Blinkit Sales Analysis project, highlighting sales trends, customer insights, product performance, revenue analysis, and other key business metrics.
 ## Dashboard using PowerBI
-- <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/blob/main/Dashboard/Blinkit%20PBI.mp4">Dashboard Power BI
+- <a href="https://github.com/shubhamganganmale77-ai/Blinkit-Data-anlysis/tree/main/Dashboard">Dashboard Power BI
 - This video showcases an interactive Blinkit Sales Analysis Dashboard built using Microsoft Power BI. The dashboard provides valuable business insights through dynamic visualizations and interactive filters.
 - 🛠️ Tools & Technologies
 - Microsoft Power BI
